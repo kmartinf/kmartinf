@@ -1,4 +1,4 @@
-### Hello Universe 👋
+### Hello 👋
 
 - 🔭 I’m currently working on exhibitions using After Effect's expression and json data.
 - 🌱 I’m currently learning Proccessing and Webflow.
