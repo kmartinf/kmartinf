@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on exhibitions using After Effect's expression and json data.
+- 🔭 I’m currently working on exhibitions using After Effects expression and json data.
 - 🌱 I’m currently learning Proccessing and Webflow.
 - 👯 I’m looking to collaborate on architectural competitions.
 - 💬 Ask me about Architecture.
